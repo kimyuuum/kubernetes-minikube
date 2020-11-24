@@ -72,7 +72,7 @@ Basic Object
 ![image](https://user-images.githubusercontent.com/46887352/100063320-64f82480-2e74-11eb-924f-17ae051cc5aa.png)
 
 
-    Pod에 **label**을 붙일 수 있다. 서비스는 label selector에서 특정 label을 가지고 있는 pod만 선택하여 묶는다.
+ Pod에 **label**을 붙일 수 있다. 서비스는 label selector에서 특정 label을 가지고 있는 pod만 선택하여 묶는다.
 
 4. **Namespace**
 
